@@ -34,7 +34,4 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-![gif]("https://giphy.com/embed/NfBQ73MtvPJS")
-  
-  <iframe src="https://giphy.com/embed/NfBQ73MtvPJS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="right" alt="GIF" src="https://giphy.com/embed/NfBQ73MtvPJS"/>
