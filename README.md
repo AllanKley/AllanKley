@@ -35,6 +35,6 @@
 </div>
 
 
-![Alt Text]("https://giphy.com/embed/NfBQ73MtvPJS")
+![gif]("https://giphy.com/embed/NfBQ73MtvPJS")
   
   <iframe src="https://giphy.com/embed/NfBQ73MtvPJS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
