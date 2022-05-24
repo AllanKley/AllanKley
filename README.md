@@ -38,4 +38,5 @@
 
 
 
-  <p><a href="https://giphy.com/gifs/haikyuu-NfBQ73MtvPJS"></a></p>
+  
+  <iframe src="https://giphy.com/embed/NfBQ73MtvPJS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
