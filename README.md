@@ -3,8 +3,8 @@
 # 💻 Skill
 <br />
 
-![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api/top-langs/?username=AllanKley&hide_border=true&theme=tokyonight&layout=compact&langcount=16&hide=Jupyter%20Notebook,JavaScript,CSS,Go,SCSS)
-![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api?username=AllanKley&theme=tokyonight&hide_border=true%count_private=true&&include_all_commits=true)
+![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api/top-langs/?username=AllanKley&hide_border=true&theme=dracula&layout=compact&langcount=16&hide=Jupyter%20Notebook,JavaScript,CSS,Go,SCSS)
+![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api?username=AllanKley&theme=dracula&hide_border=true%count_private=true&&include_all_commits=true)
 
 ## Languages
 <p>
@@ -46,3 +46,15 @@
  
 
 ### This readme.md was heavily inspired on my friend [rodrigo2019](https://github.com/rodrigo2019)
+
+
+```{r, animation.hook="gifski"}
+for (i in 1:2) {
+  pie(c(i %% 2, 6), col = c('red', 'yellow'), labels = NA)
+}
+```
+
+```c#
+awdwadawd
+```
+
