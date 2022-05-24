@@ -48,11 +48,11 @@
 ### This readme.md was heavily inspired on my friend [rodrigo2019](https://github.com/rodrigo2019)
 
 
-```{r, animation.hook="gifski"}
+{r, animation.hook="gifski"}
 for (i in 1:2) {
   pie(c(i %% 2, 6), col = c('red', 'yellow'), labels = NA)
 }
-```
+
 
 ```c#
 awdwadawd
