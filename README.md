@@ -41,4 +41,8 @@
   <img  width="38" height="36" alingn="left" src="./public/images/solidworks.png" alt="Solidworks" />
 </p>
 
+[![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
+  [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
+  [![Twitter Wallace](https://img.shields.io/twitter/follow/Deathsooul?style=social)](https://twitter.com/Deathsooul)
+
 ### This readme.md was heavily inspired on my friend [rodrigo2019](https://github.com/rodrigo2019)
