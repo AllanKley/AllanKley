@@ -19,10 +19,10 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  [![GitHub Allan]( https://img.shields.io/github/followers/AllanKley?label=follow&style=social)](https://github.com/AllanKley)
+  
 </div>
 
-
+[![GitHub Allan]( https://img.shields.io/github/followers/AllanKley?label=follow&style=social)](https://github.com/AllanKley)
 
 
 
@@ -37,3 +37,5 @@
 
 
 
+
+  <p><a href="https://giphy.com/gifs/haikyuu-NfBQ73MtvPJS"></a></p>
