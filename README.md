@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**AllanKley/AllanKley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Skill
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api/top-langs/?username=rodrigo2019&hide_border=true&theme=tokyonight&layout=compact&langcount=16&hide=Jupyter%20Notebook,JavaScript,CSS,Go,SCSS)
+![AllanKley's stats](https://github-readme-stats-deploy-nu.vercel.app/api?username=rodrigo2019&theme=tokyonight&hide_border=true%count_private=true&&include_all_commits=true)
+
+## Languages
+<p>
+  <img  height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
+  <img  height="38" alingn="left" src="./public/images/c.png" alt="C" />
+  <img  height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
+</p>
+
+## Libraries and frameworks
+<p>
+</p>
+
+## Databases
+<p>
+</p>
+
+## Cloud
+<p>
+</p>
+
+## Dev Tools
+<p>  
+  <img  height="38" alingn="left" src="./public/images/vscode.png" alt="VS Code" />
+  <img  height="38" alingn="left" src="./public/images/pycharm.png" alt="PyCharm" />
+  <img  height="38" alingn="left" src="./public/images/postman.png" alt="Postman" />
+  <img  height="38" alingn="left" src="./public/images/git.png" alt="Git" />
+  <img  height="38" alingn="left" src="./public/images/github.png" alt="GitHub" />
+
+</p>
+
+## Maker stuffs
+<p>
+  <img  width="38" height="38" alingn="left" src="./public/images/arduino.png" alt="Arduino" />
+  <img  width="38" height="36" alingn="left" src="./public/images/solidworks.png" alt="Solidworks" />
+</p>
+
+### This readme.md was heavily inspired on my friend [rodrigo2019](https://github.com/rodrigo2019)
