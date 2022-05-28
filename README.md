@@ -1,11 +1,14 @@
-<div>
-  <div align="left">
-    <img width='200' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
-  </div>
-  <div align="right">
-    # ✌️ Iai, tudo tranquilo?
-  </div>
-</div>
+
+<img align='center' width='400' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
+<h1 align='center'> :v: Iai, tudo tranquilo? :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>Se quiser pode me seguir no <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> ou no <a href="https://twitter.com/allan_kley">Twitter</a>.</p>
+
+<details>
+<h1 align='center'><i>Stay awesome!</i></h1>
+
 
 
 <div align="center">
@@ -38,10 +41,7 @@
 </div>
 
 ---
-  
- 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AllanKley&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
   
   
