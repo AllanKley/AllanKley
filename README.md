@@ -42,8 +42,9 @@
  📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AllanKley&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
+
+  
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img widht='100%' src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
