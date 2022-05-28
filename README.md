@@ -3,9 +3,9 @@
 </div>
 
 <h1 align='center'>:v: Hey there!</h1>
-<p align='center'>
-I'm Allan
-</p>
+<h3 align='center'>
+I'm Allan, nice to meet you.
+</h3>
 <p align='center'>You can follow me on <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> or <a href="https://twitter.com/allan_kley">Twitter</a> if you want.</p>
 
 
@@ -17,7 +17,8 @@ I'm Allan
 - :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
 - <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
 - :hourglass_flowing_sand:  21 years old
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :black_nib: I'm a automation engineering student at the moment but might change that later
+- :mailbox_closed: How to reach me: allanlkley@gmail.com
 </div>
 
 
