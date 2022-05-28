@@ -1,8 +1,11 @@
-
-
-# Oi
-<en />
-
+<div>
+  <div align="left">
+    <img width='200' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
+  </div>
+  <div align="right">
+    # ✌️ Iai, tudo tranquilo?
+  </div>
+</div>
 
 
 <div align="center">
@@ -32,7 +35,15 @@
     <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  
-  <img align="center" width='200' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
+
+---
+  
+ 📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AllanKley&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
