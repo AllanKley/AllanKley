@@ -9,16 +9,16 @@
 <p align='center'>You can follow me on <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> or <a href="https://twitter.com/allan_kley">Twitter</a> if you want.</p>
 
 
-<details align='center' ><summary><img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/FlipBird.png"/></summary>
+<details align='center' ><summary><img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/FlipBird.png"/></summary>
 
 <div align='left'>
   <h2>👨🏻‍💻 General info:</h2>
 
-  - :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
-  - <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
-  - :hourglass_flowing_sand:  21 years old
-  - :black_nib: I'm a automation engineering student at the moment but might change that later
-  - :mailbox_closed: How to reach me: allanlkley@gmail.com
+  - <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Game.png"/> Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
+  - <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
+  - <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>  21 years old
+  - <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/> I'm a automation engineering student at the moment but might change that later
+  - <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Mail.png"/> How to reach me: allanlkley@gmail.com
 </div>
 
 
