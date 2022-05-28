@@ -2,50 +2,32 @@
   <img align='center' width='300' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
 
-<h1 align='center'><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> :v: Iai, tudo tranquilo?</h1>
+<h1 align='center'>:v: Hey there!</h1>
 <p align='center'>
-Eu sou o Allan
+Im Allan
 </p>
-<p align='center'>Se quiser pode me seguir no <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> ou no <a href="https://twitter.com/allan_kley">Twitter</a>.</p>
-
-<details><summary>Clica aqui pra saber mais de mim</summary>
-<h1 align='center'><i>Stay awesome!</i></h1>
+<p align='center'>You can follow me on <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> or <a href="https://twitter.com/allan_kley">Twitter</a> if you want.</p>
 
 
-
-<div align="center">
-  <a href="https://github.com/AllanKley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanKley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  
-</div>
-
-[![GitHub Allan]( https://img.shields.io/github/followers/AllanKley?label=follow&style=social)](https://github.com/AllanKley)
-
-<div style="display: inline_block"> 
-  <div align="center">
-    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-</div>
-
-
-
+<details align='center' ><summary>👉 Click here for more informations about me 👈</summary>
 
   
+<h2 align="left">👨🏻‍💻 General info:</h2>
+  
+- :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
+- <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/> software development trainee on Bosch 
+- :hourglass_flowing_sand:  21 years old
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+## Programming Languages
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
