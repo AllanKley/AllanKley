@@ -34,5 +34,5 @@
   </div>
   
   
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/NfBQ73MtvPJS/giphy.gif"/>
+  <img align="center" alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
