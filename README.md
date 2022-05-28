@@ -15,7 +15,7 @@ I'm Allan
   <h2>👨🏻‍💻 General info:</h2>
   
 - :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
-- <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoshLogo.png"/> software development trainee on Bosch 
+- <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
 - :hourglass_flowing_sand:  21 years old
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 </div>
@@ -28,7 +28,7 @@ I'm Allan
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
   </p>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
