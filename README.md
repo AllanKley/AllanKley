@@ -34,5 +34,5 @@
   </div>
   
   
-  <img align="center" alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
+  <img align="center" width='200' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
