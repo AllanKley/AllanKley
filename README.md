@@ -2,14 +2,14 @@
   <img align='center' width='300' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
 
-<h1 align='center'><img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Peace.png"/> Hey there!</h1>
+<h1 align='center'><img align='center' width='40' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Peace.png"/> Hey there!</h1>
 <h3 align='center'>
 I'm Allan, nice to meet you.
 </h3>
 <p align='center'>You can follow me on <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> or <a href="https://twitter.com/allan_kley">Twitter</a> if you want.</p>
 
 
-<details align='center' ><summary><img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BirdFlip.png"/></summary>
+<details align='center' ><summary><img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='25' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/FlipBird.png"/></summary>
 
 <div align='left'>
   <h2>👨🏻‍💻 General info:</h2>
