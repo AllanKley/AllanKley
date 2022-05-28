@@ -1,14 +1,14 @@
 <div align='center'>
-  <img align='center' width='400' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
+  <img align='center' width='300' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/>
 </div>
 
-<h1 align='center'> :v: Iai, tudo tranquilo? :wave:</h1>
+<h1 align='center'><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> :v: Iai, tudo tranquilo?</h1>
 <p align='center'>
 Eu sou o Allan
 </p>
 <p align='center'>Se quiser pode me seguir no <a href="https://br.linkedin.com/in/allan-kley-4598a118b">Linkedin</a> ou no <a href="https://twitter.com/allan_kley">Twitter</a>.</p>
 
-<details>
+<details><summary>Clica aqui pra saber mais de mim</summary>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
