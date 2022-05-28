@@ -12,13 +12,13 @@ I'm Allan, nice to meet you.
 <details align='center' ><summary><img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Bird.png"/> Click here for more informations about me <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BirdFlip.png"/></summary>
 
 <div align='left'>
->  <h2>👨🏻‍💻 General info:</h2>
->  
->- :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
->- <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
->- :hourglass_flowing_sand:  21 years old
->- :black_nib: I'm a automation engineering student at the moment but might change that later
->- :mailbox_closed: How to reach me: allanlkley@gmail.com
+  <h2>👨🏻‍💻 General info:</h2>
+
+  - :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
+  - <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/> software development trainee on Bosch 
+  - :hourglass_flowing_sand:  21 years old
+  - :black_nib: I'm a automation engineering student at the moment but might change that later
+  - :mailbox_closed: How to reach me: allanlkley@gmail.com
 </div>
 
 
