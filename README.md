@@ -15,21 +15,21 @@ Im Allan
   <h2>👨🏻‍💻 General info:</h2>
   
 - :man_technologist: Currently learning to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
-- <img align='center' width='20' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/ProfileGif.gif"/> software development trainee on Bosch 
+- <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/image.png"/> software development trainee on Bosch 
 - :hourglass_flowing_sand:  21 years old
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 </div>
 
 
 ## Programming Languages
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="border-radius:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
