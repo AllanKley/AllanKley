@@ -21,7 +21,7 @@ I'm Allan
 </div>
 
 
-## Programming Languages
+## Things i use
   
   <p align="center">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -29,6 +29,14 @@ I'm Allan
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
     <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+    <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/arduino.png">
+    <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/solidworks.png">
   </p>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
