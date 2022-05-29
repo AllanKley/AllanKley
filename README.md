@@ -38,7 +38,7 @@
     <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/solidworks.png">
   </p>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=apprentice"/>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
