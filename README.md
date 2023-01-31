@@ -16,7 +16,7 @@
   
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/>   software development trainee at Bosch 
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>   22 years old
-  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a computer engineering student
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a Software Engineering student
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Mail.png"/>   How to reach me: allanlkley@gmail.com
 </div>
 
