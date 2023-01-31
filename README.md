@@ -13,11 +13,10 @@
 
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Profile.png"/> General info:</h2>
-
-  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Game.png"/> Currently learning how to make a <a href="https://github.com/stelmachic/WatersanFirejalma">game</a>
+  
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/BoschLogo.png"/>   software development trainee at Bosch 
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Birthday.png"/>   22 years old
-  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a automation engineering student at the moment but might change that later
+  - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Study.png"/>   I'm a computer engineering student
   - <img align='center' width='30' alt="GIF" src="https://github.com/AllanKley/AllanKley/blob/main/public/images/Mail.png"/>   How to reach me: allanlkley@gmail.com
 </div>
 
