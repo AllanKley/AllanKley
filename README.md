@@ -35,6 +35,7 @@
     <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
     <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/arduino.png">
     <img height="60" src="https://github.com/rodrigo2019/rodrigo2019/blob/main/public/images/solidworks.png">
+    <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg">
   </p>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKley&layout=compact&langs_count=7&theme=apprentice"/>
